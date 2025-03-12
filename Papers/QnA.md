@@ -1,2 +1,2 @@
 1. Как скачать проект?? Если на главной странице (README.md) нет большой кнопки СКАЧАТЬ, то в вот тут 
-![](Images/download1.png)
+![amogus](Images/download1.png)
