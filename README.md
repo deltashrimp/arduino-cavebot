@@ -1,7 +1,7 @@
 # arduino-cavebot
 arduino based robot speleologist
 
-![](Images/shapka.png)
+<img src = "Images/shapka.png">
 
 **Добро пожаловать в репозиторий про робота-исследователя. Собрав его вы сможете исследовать труднодоступные места или искать вещи под диваном.**
 
@@ -29,3 +29,6 @@ arduino based robot speleologist
 ## Дополнительно
 Весь код был написан в **VS Code** через **Platform IO IDE**, а не через arduino ide. Код может отличаться, но не сильно. </br>
 Все возможные вопросы (и ответы на них) есть в **QnA.md**
+
+<img src = "Images/amogus.png" width = 20%>
+амогус
