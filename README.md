@@ -4,6 +4,15 @@ esp32 based robot speleologist
 <img src = "Images/code.png">
 
 **Репозиторий о роботе-исследователе. Собрав его вы сможете исследовать труднодоступные места или искать вещи под диваном.**
+Проблемы или вопросы? Напишите в issues
+
+[![Issues](https://img.shields.io/badge/issues-0%20open-be4ad6?style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/issues)
+![aaaa](https://img.shields.io/badge/|-red?style=for-the-badge)
+[![Latest Release](https://img.shields.io/github/v/release/deltashrimp/arduino-cavebot?include_prereleases&label=Release&color=96d83e&style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/releases/latest)
+![aaaa](https://img.shields.io/badge/|-red?style=for-the-badge)
+[![Latest Release](https://img.shields.io/github/v/release/deltashrimp/arduino-cavebot?include_prereleases&label=Download&style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/releases/latest)
+
+
 
 ## Файловая структура
 - **Source** - исходники кода, который надо загрузить на arduino и все 3д модели
