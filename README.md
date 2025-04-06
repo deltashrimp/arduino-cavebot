@@ -11,6 +11,7 @@ esp32 based robot speleologist
 [![Latest Release](https://img.shields.io/github/v/release/deltashrimp/arduino-cavebot?include_prereleases&label=Release&color=96d83e&style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/releases/latest)
 ![aaaa](https://img.shields.io/badge/|-red?style=for-the-badge)
 [![Latest Release](https://img.shields.io/github/v/release/deltashrimp/arduino-cavebot?include_prereleases&label=Download&style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/releases/latest)
+[![Changelog](https://img.shields.io/badge/Changelog-View-0078D4?style=for-the-badge)](https://github.com/deltashrimp/arduino-cavebot/blob/main/Papers/CHANGELOG.md)
 
 
 
